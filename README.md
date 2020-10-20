@@ -1,2 +1,2 @@
 
-# structure_beta
+# structure_alpha
